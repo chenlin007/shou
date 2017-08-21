@@ -1,0 +1,210 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top{
+		height:2.125rem;
+		background:#333333;
+		text-align:center;
+	}
+.top a{ color:#fff;
+		font-size:0.6rem;
+		line-height:2.125rem;
+		font-family:"微软雅黑";}
+		
+.banner img{ 
+
+		width:16rem;
+		height:7.175rem;
+			
+}
+
+.gonggao{
+			height:1.5rem;
+	}
+.gonggao img{
+			
+			margin-top:0.25rem;
+			padding-left:0.425rem;
+			width:1.225rem;
+			height:1rem;
+	}
+.gonggao span{
+			line-height:1.5rem;
+			font-size:0.45rem;
+			color:#333333;
+			font-family:"微软雅黑";
+	}
+.gonggao span .em1{ color:#03B117;}
+.gonggao span .em2{ color:#E00000;}
+
+.tu{
+			height:4.125rem;
+	}
+
+.tu1 img{
+			width:5.5rem;
+			height:4.125rem;
+			
+	}
+.tu2 img{
+			width:4.925rem;
+			height:4.125rem;
+			
+	}
+.tu3 img{
+			width:5.55rem;
+			height:4.125rem;
+			
+	}
+
+.caizhong{ 
+			height:1.55rem;
+			line-height:1.55rem;
+			border-bottom:0.05rem solid #EFEFEF;
+}
+
+.caizhong p{
+			
+		  color:#333333;
+		  font-family:"微软雅黑";
+		  font-size:0.45rem;
+		  padding-left:0.7rem;
+		  font-weight:bold;
+		  background:url(../images/bian.jpg) no-repeat 0.3rem center;
+	}
+.caizhong span{
+		  color:#CBCBCB;
+		  font-family:Arial;
+		  font-size:0.4rem;
+		  padding-right:0.3rem;
+	}
+.caizhong span a{
+		  color:#CBCBCB;}
+
+.cai{
+		height:7.875rem;
+		width:16rem;
+		margin-bottom:1rem;
+	}
+.cai1{
+		height:3.9rem;
+		width:3.975rem;
+		text-align:center;
+		border-bottom:0.05rem solid #EFEFEF;
+		border-right:0.05rem solid #EFEFEF;
+	}
+.cai1rg{
+	 height:3.9rem;
+	 width:3.925rem;
+	 border-right:none;
+
+}
+.cai1 img{
+			width:1.25rem;
+			height:1.25rem;
+			margin:0.55rem 0;
+	}
+.cai1 p{ color:#333333;
+		 font-family:"微软雅黑";
+		 font-size:0.45rem;
+		 line-height:0.75rem;
+		 font-weight:bold;
+		 }
+		 
+.cai1 .pp a{
+		 font-family:"微软雅黑";
+		 font-size:0.35rem;
+		 font-weight:normal;
+		 color:#999999;}
+		 
+.b1{ 	 width:4rem;
+		 background-color:#333333;
+		 height:2.3rem;
+		 font-family:"微软雅黑";
+		 text-align:center;
+		 font-size:0.45rem;
+		 color:#fff;
+  }
+  
+.active{ background:#FF8A00;}
+
+ 
+.b1 img{ margin-top:0.325rem; 
+		 margin-bottom:0.25rem;}
+
+.b1 .img1{
+			width:1.225rem;
+			height:0.95rem;
+	}
+.b1 .img2{
+			width:1.575rem;
+			height:0.95rem;
+	}
+.b1 .img3{
+			width:1.075rem;
+			height:0.975rem;
+	}
+.b1 .img4{
+			width:1.075rem;
+			height:0.925rem;
+	}
+.top-k{
+			height:1.625rem;
+			background-color:#333333;
+			padding-top:0.5rem;
+	}
+.top-k .k1{
+			margin-left:0.5rem;
+			height:0.775rem;
+			width:0.475rem;
+	}
+.top-k .k2{
+			margin-right:0.5rem;
+			width:1rem;
+			height:0.8rem;
+	}
+.top-k span{
+			font-size:0.6rem;
+			font-family:"微软雅黑";
+			color:#FFF;
+			margin-left:5.85rem;
+	}
+.top-kx{
+			height:3.35rem;
+			border-bottom:0.025rem dashed #CCCCCC;
+	}
+.top-kx .k3{ padding:0.75rem;
+			 height:1.775rem;
+			 width:1.775rem;
+}
+
+
+.top-kx .k4{ padding:1.5rem 0.625rem 0 0;
+ width:0.475rem;
+  height:0.775rem;}
+.top-kx p{
+			font-size:0.6rem;
+			color:#333333;
+			margin-bottom:0.3rem; 
+	}
+.top-kx2{ 	float:left;
+			font-size:0.6rem;
+			margin-top:0.8rem;
+			font-family:"微软雅黑";}
+.top-kx .top-kxs{
+				width:0.925rem;
+				height:0.925rem;
+				line-height:0.925rem;
+				text-align:center;
+				border-radius:50%;
+				border:0.075rem solid #FF8C05;
+				margin-right:0.25rem;
+				color:#FF8900;
+				font-size:0.625rem;
+				font-family:Arial;
+		}
+.top-kx p span{
+			font-size:0.5rem;
+			color:#999999;
+	}
+.bottom2{ margin-top:46px;}
